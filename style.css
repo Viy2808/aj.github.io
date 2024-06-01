@@ -1,0 +1,31 @@
+header{
+    height: 65px;  
+    display:flex;
+    align-items:center;
+    padding: 0 20%;
+    justify-content:space-between;
+    background-color: #F5ACCF;
+}
+.logo{
+    font-size:20px;
+    font-family: italic; 
+}
+p{
+    font-size:35px ;
+    color:black;
+}
+h1{
+    font-size:45px;
+    color:black;
+}
+img{
+    weight: 933px;
+    height: 491px;
+    justify-content: flex-end;
+}
+div{
+margin: 0;
+font-family: italic;
+justify-content:flex-end;
+color:white;
+}
